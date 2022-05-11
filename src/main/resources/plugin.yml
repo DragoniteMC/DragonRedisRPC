@@ -1,0 +1,6 @@
+name: DragonRedisRPC
+version: ${project.version}
+main: com.dragonite.mc.redisrpc.DragonRedisRPC
+depend:
+  - DragoniteMC-Core
+  - ELDependenci-RPC
